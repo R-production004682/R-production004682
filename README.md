@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Ryosuke004682👍</h1>
+<h1 align="center">頑張ってコーディングするぞ！！👍</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/125158.jpg?zoom=spacing">
 
