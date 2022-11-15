@@ -3,35 +3,12 @@
 
 <!--
 **Ryosuke004682/Ryosuke004682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <h1 align="center">頑張ってコーディングするぞ！！👍</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/125158.jpg?zoom=spacing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryosuke004682&label=Profile%20views&color=0e75b6&style=flat" alt="ryosuke004682" /> </p>
-
-- 🔭 I’m currently working on **ActionGame**
-
-- 🌱 I’m currently learning **C#,Unity,Processing,Java**
-
-- 📝 I regularly write articles on [https://www.notion.so/58550736db3f4c258e0829376a657e2b]([https://incredible-platinum-02b.notion.site/92d0d367b38442ea99e0a57822c821e8])
-
-- 💬 Ask me about **ActionGame,Animator,Coding**
-
-- 📫 How to reach me **Kr004682zero@icloud.com**
-
-- ⚡ Fun fact **I want to be good at programming!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
