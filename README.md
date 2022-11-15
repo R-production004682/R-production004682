@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosuke004682&layout=compact&theme=tokyonight
 )](https://github.com/Ryosuke004682/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosuke004682)](https://github.com/Ryosuke004682/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&layout=compact&theme=tokyonight)](https://github.com/Ryosuke004682/github-profile-trophy)
 
 <!--
 **Ryosuke004682/Ryosuke004682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
