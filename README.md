@@ -8,7 +8,7 @@
 <!--
 **Ryosuke004682/Ryosuke004682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">頑張ってコーディングするぞ！！👍</h1>
+<h1 align="center">ここから一気に追い上げますよー！！</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/125158.jpg?zoom=spacing">
 
