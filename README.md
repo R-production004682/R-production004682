@@ -1,6 +1,6 @@
 ### ゲームプログラマーになります
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosuke004682&layout=compact&theme=cobalt
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosuke004682&layout=compact&theme=highcontrast
 )](https://github.com/Ryosuke004682/github-readme-stats)
 
 
