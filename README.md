@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Ryosuke004682</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/125158.jpg?zoom=spacing">
@@ -43,5 +42,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryosuke004682&show_icons=true&locale=en&layout=compact" alt="ryosuke004682" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryosuke004682&show_icons=true&locale=en" alt="ryosuke004682" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=radical)
 
