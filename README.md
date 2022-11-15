@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **C#,Unity,Processing,Java**
 
-- 📝 I regularly write articles on [https://www.notion.so/58550736db3f4c258e0829376a657e2b](https://www.notion.so/58550736db3f4c258e0829376a657e2b)
+- 📝 I regularly write articles on [https://www.notion.so/58550736db3f4c258e0829376a657e2b]([https://www.notion.so/58550736db3f4c258e0829376a657e2b](https://incredible-platinum-02b.notion.site/92d0d367b38442ea99e0a57822c821e8))
 
 - 💬 Ask me about **ActionGame,Animator,Coding**
 
