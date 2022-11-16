@@ -1,9 +1,7 @@
 ### ゲームプログラマーになってやります
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=Gradient)
 [![Top Langs](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&theme=matrix
 )]
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&layout=compact&theme=tokyonight)](https://github.com/Ryosuke004682/github-profile-trophy)
 
 <!--
 **Ryosuke004682/Ryosuke004682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
