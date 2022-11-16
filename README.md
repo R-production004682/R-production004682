@@ -1,5 +1,5 @@
 ### ゲームプログラマーになってやります
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=dracula)
 [![Top Langs](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&theme=matrix
 )]
 
