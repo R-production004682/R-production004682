@@ -1,7 +1,7 @@
 ### ゲームプログラマーになってやります
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryosuke004682&theme=moonlight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryosuke004682&show_icons=true&theme=synthwave)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&theme=synthwave)](https://github.com/Ryosuke004682/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&theme=radical)](https://github.com/Ryosuke004682/github-profile-trophy)
 ![Top Langs](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&theme=matrix
 )]
 
