@@ -1,4 +1,4 @@
-### 世界で戦っていけるようなゲームプログラマーになってやります。  
+### 世界で戦っていけるようなゲームプログラマーになります。  
 ポートフォリオはこちらから☟☟  
 https://incredible-platinum-02b.notion.site/R_Production-Portfolio-a6fd83cc9c9748b6a9b8eee12c67e083
 
