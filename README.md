@@ -1,7 +1,3 @@
-ポートフォリオはこちらから☟☟  
-https://incredible-platinum-02b.notion.site/R_Production-Portfolio-a6fd83cc9c9748b6a9b8eee12c67e083
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryosuke004682&theme=moonlight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryosuke004682&theme=dark_lover)](https://github.com/Ryosuke004682/github-profile-trophy)
