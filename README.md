@@ -1,22 +1,68 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-production004682&theme=moonlight)
+# 💻 Hello, World! 
+### 🌸 A passionate frontend developer from Japan
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R-production004682&theme=dark_lover)](https://github.com/R-production004682/github-profile-trophy)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" />
+  <img alt="Coding" width="300" src="https://github.com/user-attachments/assets/1ec0dffc-48b6-40ad-bfd5-80598df5eb49" />
+  <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/9be9239a-ecf8-435d-b982-6793b33cef96" />
+</div>
 
-<!--
-//**R-production004682/R-production004682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h1 align="center">さあ、構築を始めよう</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/125158.jpg?zoom=spacing">
+## 🛠 Skills & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal" width="40" height="40"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=R-production004682&label=Profile%20views&color=0e75b6&style=flat" alt="R-production004682" /> </p>
+## 📈 GitHub Stats
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=R-production004682&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-production004682&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-production004682&theme=dark" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-production004682&show_icons=true&locale=en&layout=compact" alt="R-production004682" /></p>
+  [![github-chart](https://github-chart.vercel.app/api?user=xxxxxxxxxx)](https://github.com/xxxxxxxxxx/github-chart)
 
+</div>
+
+## 🚀 Projects
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/R-production004682/UnrealEngine5_Soul-sLike">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-production004682&repo=UnrealEngine5_Soul-sLike" alt="UnrealEngine5_Soul-sLike" style="border-radius: 10px;"/>
+  </a>
+  
+  <a href="https://github.com/R-production004682/Chess_StudyMeeting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-production004682&repo=Chess_StudyMeeting" alt="Chess_StudyMeeting" style="border-radius: 10px;"/>
+  </a>
+</div>
