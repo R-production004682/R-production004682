@@ -7,8 +7,26 @@
   <img alt="Coding" width="450" src="https://github.com/user-attachments/assets/9be9239a-ecf8-435d-b982-6793b33cef96" />
 </div>
 
-## 🛠 Skills & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+## Skills & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+  <!-- ゲームエンジン -->
+  <h4 style="width: 100%;">Game Engines</h4>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+  </a>
+  <a href="https://cryengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/b194bcf1-e334-4fe8-ab32-0043d6b6dc87" alt="CryEngine" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/directx" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/7b712965-a560-41ef-a17e-1d9398aa97d4" alt="DirectX" width="40" height="40"/>
+  </a>
+
+  <!-- クライアント -->
+  <h4 style="width: 100%;">Client-side Technologies</h4>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -18,26 +36,38 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://processing.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/e42643b3-7577-4332-9ddd-7418db58ef23" alt="Processing" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  </a>
+
+  <!-- サーバー -->
+  <h4 style="width: 100%;">Server-side Technologies</h4>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/5629482a-a984-4d3c-b767-a595f471015c" alt="AWS" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/da32211a-b20d-4229-b7d8-4b74798faa37" alt="Shell Script" width="40" height="40"/>
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal" width="40" height="40"/>
+  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/1b3e38ca-cdda-4599-bbdb-96926033b0c3" alt="Google Apps Script" width="40" height="40"/>
   </a>
 </div>
 
