@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" />
   <img alt="Coding" width="300" src="https://github.com/user-attachments/assets/1ec0dffc-48b6-40ad-bfd5-80598df5eb49" />
-  <img alt="Coding" width="300" src="https://github.com/user-attachments/assets/9be9239a-ecf8-435d-b982-6793b33cef96" />
+  <img alt="Coding" width="450" src="https://github.com/user-attachments/assets/9be9239a-ecf8-435d-b982-6793b33cef96" />
 </div>
 
 ## 🛠 Skills & Tools
