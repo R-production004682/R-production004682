@@ -49,8 +49,6 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-production004682&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;"/>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-production004682&theme=dark" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
 
   [![github-chart](https://github-chart.vercel.app/api?user=xxxxxxxxxx)](https://github.com/xxxxxxxxxx/github-chart)
 
