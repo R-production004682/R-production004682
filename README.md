@@ -6,9 +6,8 @@
 <h3 style="text-align: center;">🌸 A passionate frontend developer from Japan</h3>
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" />
   <img alt="Coding" width="200" src="https://github.com/user-attachments/assets/1ec0dffc-48b6-40ad-bfd5-80598df5eb49" />
-  <img alt="Coding" width="450" src="https://github.com/user-attachments/assets/9be9239a-ecf8-435d-b982-6793b33cef96" />
+  <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" />
 </div>
 
 <h2 style="text-align: center;">Skills & Tools</h2>
