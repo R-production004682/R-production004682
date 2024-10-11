@@ -1,5 +1,5 @@
-<div style="width: 100%; padding: 20px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/7ed614b7-b813-4e98-9b3d-33006f5f00ef" alt="GitHub Trophy" />
+<div style="width: 100%; padding: 20px;">
+  <img src="https://github.com/user-attachments/assets/7ed614b7-b813-4e98-9b3d-33006f5f00ef" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
 </div>
 
 <h1 style="text-align: center;">Welcome to My Github!</h1>
