@@ -1,13 +1,12 @@
 <div style="width: 100%; padding: 20px;">
+    <img alt="Coding" width="150" src="https://github.com/user-attachments/assets/1ec0dffc-48b6-40ad-bfd5-80598df5eb49" style="flex: 0 0 auto;"/>
   <img src="https://github.com/user-attachments/assets/b41fe497-21bf-487a-bd41-ec3814059ea5" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
 </div>
 
-<h1 style="text-align: center;">Welcome to My Github!</h1>
 <h3 style="text-align: center;">🌸 A passionate frontend developer from Japan</h3>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img alt="Coding" width="200" src="https://github.com/user-attachments/assets/1ec0dffc-48b6-40ad-bfd5-80598df5eb49" />
-  <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" />
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" style="flex: 0 0 auto;"/>
 </div>
 
 <h2 style="text-align: center;">Skills & Tools</h2>
