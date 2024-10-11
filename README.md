@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/b41fe497-21bf-487a-bd41-ec3814059ea5" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
 </div>
 
-
 <h1 style="text-align: center;">Welcome to My Github!</h1>
 <h3 style="text-align: center;">🌸 A passionate frontend developer from Japan</h3>
 
@@ -94,4 +93,8 @@
   <a href="https://github.com/R-production004682/Chess_StudyMeeting">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-production004682&repo=Chess_StudyMeeting" alt="Chess_StudyMeeting" style="border-radius: 10px;" />
   </a>
+</div>
+<hr>
+<div style="width: 100%; padding: 20px;">
+  <img src="https://github.com/user-attachments/assets/c5507a7e-cec8-40ef-a3ba-ff4c515e786f" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
 </div>
