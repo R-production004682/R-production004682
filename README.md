@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b41fe497-21bf-487a-bd41-ec3814059ea5" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
 </div>
 
-<h3 style="text-align: center;">日本人です。</h3>
+<h3 style="text-align: center;">とあるゲーム会社のゲームプログラマ</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" style="flex: 0 0 auto;"/>
