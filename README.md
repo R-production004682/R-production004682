@@ -1,5 +1,5 @@
 【 最近の一言 】
-<p>最近歯性上顎洞炎になってしまった。。。</p>
+<p>質のいいコードが書けるようになってきている気がする。</p>
 
 <div style="width: 100%; padding: 20px;">
   <img src="https://github.com/user-attachments/assets/b41fe497-21bf-487a-bd41-ec3814059ea5" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
