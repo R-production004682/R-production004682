@@ -10,8 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-production004682&color=26d0ce&style=for-the-badge&label=PROFILE+VIEWS"/>
-  &nbsp;
   <img src="https://img.shields.io/github/followers/R-production004682?color=26d0ce&style=for-the-badge&logo=github&label=FOLLOWERS"/>
   &nbsp;
   <a href="https://github.com/R-production004682?tab=repositories">
@@ -26,7 +24,7 @@
 <!-- ============================================================= -->
 <div align="center">
 
-### 「 コメントに依存せず、誰が読んでも理解できるコードを書け 」
+### <i>「 コメントに依存せず、誰が読んでも理解できるコードを書け 」</i>
 
 </div>
 
@@ -36,24 +34,15 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
 <br/>
 
-> こんにちは、**R（あーる）** です。<br/>
-> 主に **ゲーム開発** を中心に活動しているエンジニアです。
+> こんにちは、<b>R（あーる）</b> です。<br/>
+> 主に 【 ゲーム開発 】 を中心に活動しているエンジニアです。
 >
 > クライアントからバックエンド、インフラまで<br/>
 > 幅広いレイヤーを横断して開発しています。
-
-```ts
-const R = {
-  role:     ["Game Programmer", "Full-Stack Engineer"],
-  focus:    ["Unity", "Unreal Engine", "Backend", "CI/CD"],
-  designs:  ["System Architecture", "Table Design"],
-  motto:    "誰が読んでも理解できるコードを",
-};
-```
 
 </td>
 <td width="42%" valign="top">
@@ -69,13 +58,13 @@ const R = {
 <!-- ============================================================= -->
 <!--                        TECH STACK                             -->
 <!-- ============================================================= -->
-## &nbsp;🛠&nbsp; 技術スタック
+## &nbsp;🛠&nbsp; <i>技術スタック</i>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### &nbsp;🎮&nbsp; Game / Language
+#### &nbsp;🎮&nbsp; <i>Game / Language</i>
 <p>
 <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,java&perline=6"/>
 </p>
@@ -83,7 +72,7 @@ const R = {
 </td>
 <td valign="top" width="50%">
 
-#### &nbsp;🌐&nbsp; Web / Frontend
+#### &nbsp;🌐&nbsp; <i>Web / Frontend</i>
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,python&perline=6"/>
 </p>
@@ -93,7 +82,7 @@ const R = {
 <tr>
 <td valign="top" width="50%">
 
-#### &nbsp;⚙️&nbsp; Infrastructure / DevOps
+#### &nbsp;⚙️&nbsp; <i>Infrastructure / DevOps</i>
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,jenkins&perline=6"/>
 </p>
@@ -101,7 +90,7 @@ const R = {
 </td>
 <td valign="top" width="50%">
 
-#### &nbsp;🗄&nbsp; Database / Backend
+#### &nbsp;🗄&nbsp; <i>Database / Backend</i>
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis,dotnet&perline=6"/>
 </p>
@@ -115,7 +104,7 @@ const R = {
 <!-- ============================================================= -->
 <!--                      GITHUB STATS                             -->
 <!-- ============================================================= -->
-## &nbsp;📊&nbsp; GitHub Stats
+## &nbsp;📊&nbsp; <i>GitHub Stats</i>
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=R-production004682&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&icon_color=26d0ce&title_color=26d0ce&text_color=c9d1d9"/>
@@ -135,36 +124,31 @@ const R = {
 <!-- ============================================================= -->
 <!--                      NOW / SKILLS                             -->
 <!-- ============================================================= -->
-## &nbsp;🚀&nbsp; 現在取り組んでいること
+## &nbsp;🚀&nbsp; <i>現在取り組んでいること</i>
 
 <table align="center">
 <tr>
 <td valign="top" width="400">
 
-#### &nbsp;🔭&nbsp; Now Working On
+#### &nbsp;🔭&nbsp; <i>Now Working On</i>
 
-```text
-🎮  Unity 個人開発
-🌋  Unreal Engine 5 の研究
-🤖  AIエージェント開発
-🏗  サーバーアーキテクチャ設計
-🔧  開発効率化ツール作成
-👥  チームゲーム開発
-```
+✦ <i>開発効率化ツール</i> 作成<br/><i>　・Unity / C#</i> での個人開発<br/>
+✦ <i>開発効率化ツール</i> 作成<br/><i>　・UE5 / C++</i> (Eidos-Resonance等) の研究・開発<br/>
+✦ <i>開発効率化ツール</i> 作成<br/><i>　・AIエージェント</i> 開発<br/>
+✦ <i>開発効率化ツール</i> 作成<br/><i>　・サーバーアーキテクチャ</i> 設計<br/>
+✦ <i>開発効率化ツール</i> 作成<br/>
+✦ <i>チームゲーム</i> 開発<br/>
 
 </td>
 <td valign="top" width="400">
 
-#### &nbsp;💻&nbsp; 得意分野
+#### &nbsp;💻&nbsp; <i>Core Skills</i>
 
-```text
-✦  ゲームプログラミング
-✦  システム設計
-✦  バックエンド開発
-✦  テーブル設計
-✦  CI/CD構築
-✦  ツール開発
-```
+✦ <i>ゲームプログラミング</i><br/>
+✦ <i>システム・テーブル設計</i><br/>
+✦ <i>バックエンド</i> 開発<br/>
+✦ <i>CI/CD</i> 構築・運用<br/>
+✦ <i>ツール</i> 開発<br/>
 
 </td>
 </tr>
@@ -177,7 +161,7 @@ const R = {
 <!-- ============================================================= -->
 <div align="center">
 
-### &nbsp;🌐&nbsp; Connect with me
+### &nbsp;🌐&nbsp; <i>Connect with me</i>
 
 <a href="https://github.com/R-production004682">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
