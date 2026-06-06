@@ -1,100 +1,149 @@
-【 最近の一言 】
-<p>質のいいコードが書けるようになってきている気がする。</p>
+<!-- ===== BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=240&section=header&text=R%20%2F%20%E3%82%A2%E3%83%BC%E3%83%AB&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Game%20Programmer%20%E2%80%A2%20Full-Stack%20Engineer&descSize=20&descAlignY=56&animation=fadeIn" alt="Banner"/>
 
-<div style="width: 100%; padding: 20px;">
-  <img src="https://github.com/user-attachments/assets/b41fe497-21bf-487a-bd41-ec3814059ea5" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
-</div>
+<p align="center">
+  <a href="https://github.com/R-production004682">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=Game+Developer;Unity+%2F+Unreal+Engine;Full-Stack+Engineer;Backend+%26+Infrastructure" alt="Typing SVG"/>
+  </a>
+</p>
 
-<h3 style="text-align: center;">ゲームプログラマ</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=R-production004682&color=26d0ce&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/R-production004682?color=26d0ce&style=for-the-badge&logo=github&label=FOLLOWERS"/>
+</p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-Production004682&theme=flat" alt="GitHub Trophy" style="flex: 0 0 auto;"/>
-</div>
+<br/>
 
-<h2 style="text-align: center;">Skills & Tools</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<!-- ===== ABOUT ===== -->
+## 👋 自己紹介
 
-  <!-- ゲームエンジン -->
-  <h4 style="width: 100%; text-align: center;">Game Engines</h4>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" />
-  </a>
-  <a href="https://cryengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/b194bcf1-e334-4fe8-ab32-0043d6b6dc87" alt="CryEngine" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows/directx" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/7b712965-a560-41ef-a17e-1d9398aa97d4" alt="DirectX" width="40" height="40" />
-  </a>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-  <!-- クライアント -->
-  <h4 style="width: 100%; text-align: center;">Client-side Technologies</h4>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://processing.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/e42643b3-7577-4332-9ddd-7418db58ef23" alt="Processing" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-  </a>
+こんにちは、**R（あーる）** です。<br/>
+主に **ゲーム開発** を中心に活動しているエンジニアです。
 
-  <!-- サーバー -->
-  <h4 style="width: 100%; text-align: center;">Server-side Technologies</h4>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/5629482a-a984-4d3c-b767-a595f471015c" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.shellscript.sh/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/da32211a-b20d-4229-b7d8-4b74798faa37" alt="Shell Script" width="40" height="40" />
-  </a>
-  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/1b3e38ca-cdda-4599-bbdb-96926033b0c3" alt="Google Apps Script" width="40" height="40" />
-  </a>
-</div>
+クライアントからバックエンド、インフラまで<br/>
+幅広いレイヤーを横断して開発しています。
 
-<h2 style="text-align: center;">📈 GitHub Stats</h2>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-production004682&show_icons=true&locale=en" alt="GitHub Stats" style="border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-production004682&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
-  <a href="https://github.com/R-production004682/github-chart">
-    <img src="https://github-chart.vercel.app/api?user=R-production004682" alt="GitHub Chart" />
-  </a>
-</div>
+```text
+🎮  Unity / Unreal Engine でのゲーム開発
+🧩  システム / テーブル設計
+⚙️  バックエンド & CI/CD 構築
+```
 
-<h2 style="text-align: center;">🚀 Projects</h2>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/R-production004682/UnrealEngine5_Soul-sLike">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-production004682&repo=UnrealEngine5_Soul-sLike" alt="UnrealEngine5_Soul-sLike" style="border-radius: 10px;" />
-  </a>
-  
-  <a href="https://github.com/R-production004682/Chess_StudyMeeting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=R-production004682&repo=Chess_StudyMeeting" alt="Chess_StudyMeeting" style="border-radius: 10px;" />
-  </a>
-</div>
-<hr>
-<div style="width: 100%; padding: 20px;">
-  <img src="https://github.com/user-attachments/assets/c5507a7e-cec8-40ef-a3ba-ff4c515e786f" alt="GitHub Trophy" style="display: block; margin: 0 auto;" />
-</div>
+</td>
+<td width="42%" valign="top">
+
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=R-production004682&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===== TECH STACK ===== -->
+## 🛠 技術スタック
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🎮 Game / Language**
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,c,java"/>
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Web / Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,python"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**⚙️ Infrastructure / DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,jenkins"/>
+
+</td>
+<td valign="top" width="50%">
+
+**🗄 Database / Backend**
+
+<img src="https://skillicons.dev/icons?i=mysql,redis,dotnet"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===== GITHUB STATS ===== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=R-production004682&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R-production004682&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=R-production004682&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=R-production004682&theme=tokyo-night&hide_border=true&area=true&radius=8"/>
+</p>
+
+---
+
+<!-- ===== NOW / SKILLS ===== -->
+## 🚀 現在取り組んでいること
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Now Working On**
+
+- 🎮 Unity 個人開発
+- 🌋 Unreal Engine 5 の研究
+- 🤖 AIエージェント開発
+- 🏗 サーバーアーキテクチャ設計
+- 🔧 開発効率化ツール作成
+- 👥 チームゲーム開発
+
+</td>
+<td valign="top" width="50%">
+
+**💻 得意分野**
+
+- ゲームプログラミング
+- システム設計
+- バックエンド開発
+- テーブル設計
+- CI/CD構築
+- ツール開発
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===== QUOTE ===== -->
+## 📝 好きな言葉
+
+<p align="center">
+  <i>「 コメントに依存せず、誰が読んでも理解できるコードを書け 」</i>
+</p>
+
+---
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=fadeIn"/>
